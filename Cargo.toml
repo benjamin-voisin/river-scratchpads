@@ -2,6 +2,11 @@
 name = "river-scratchpads"
 version = "0.1.0"
 edition = "2021"
+description = "A simple utility to have better scratchpads behaviours"
+author = ["Benjamin Voisin <benjamin.voisin@ens-rennes.fr>"]
+readme = "README.md"
+repository = "https://github.com/benjamin-voisin/river-scrathpads.git"
+homepage = "https://github.com/benjamin-voisin/river-scrathpads.git"
 license = "CC-BY-SA-4.0"
 
 [dependencies]
